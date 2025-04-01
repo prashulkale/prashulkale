@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashulkale
-- 👀 I’m interested in Web development, blockchain development, java 
-- 🌱 I’m currently learning web development, java advance
+- 👀 I’m interested in Web development, blockchain development 
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9399616658, prashulkale@gmail.com
 
